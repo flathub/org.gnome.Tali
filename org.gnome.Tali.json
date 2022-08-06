@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/libgnome-games-support/1.8/libgnome-games-support-1.8.2.tar.xz",
-                    "sha256": "28434604a7b038731ac0231731388ff104f565bb2330cc24e78cda04cfd3ef7d",
+                    "url": "https://download.gnome.org/sources/libgnome-games-support/2.0/libgnome-games-support-2.0.0.tar.xz",
+                    "sha256": "53821f6fe32eddcb9eef3324f646aaac83cc6d3de0937dfd5f266470d453d2a4",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "libgnome-games-support"
@@ -33,8 +33,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/tali/40/tali-40.6.tar.xz",
-                    "sha256": "83fba047edecd196d30719a70e2f4d0986bb26cc2bd5f955a0a9200ea63f0612",
+                    "url": "https://download.gnome.org/sources/tali/40/tali-40.8.tar.xz",
+                    "sha256": "6c178c160fcbb4d11be3d1569d538e0e78140d50bbdb52a7583188f795c017ee",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "tali"
