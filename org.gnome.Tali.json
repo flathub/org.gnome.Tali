@@ -33,8 +33,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.gnome.org/sources/tali/40/tali-40.6.tar.xz",
-                    "sha256": "83fba047edecd196d30719a70e2f4d0986bb26cc2bd5f955a0a9200ea63f0612",
+                    "url": "https://download.gnome.org/sources/tali/40/tali-40.8.tar.xz",
+                    "sha256": "6c178c160fcbb4d11be3d1569d538e0e78140d50bbdb52a7583188f795c017ee",
                     "x-checker-data": {
                         "type": "gnome",
                         "name": "tali"
