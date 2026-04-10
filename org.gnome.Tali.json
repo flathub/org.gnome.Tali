@@ -1,7 +1,7 @@
 {
     "app-id": "org.gnome.Tali",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "49",
+    "runtime-version": "50",
     "sdk": "org.gnome.Sdk",
     "command": "tali",
     "finish-args": [
@@ -10,6 +10,12 @@
         "--socket=wayland",
         "--device=dri",
         "--metadata=X-DConf=migrate-path=/org/gnome/Tali/"
+    ],
+    "cleanup": [
+        "/include",
+        "/lib/pkgconfig",
+        "/share/man",
+        "/share/vala"
     ],
     "modules": [
         {
